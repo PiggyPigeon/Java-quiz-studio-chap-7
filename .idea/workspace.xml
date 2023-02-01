@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b93e53-30b6-4f71-b20a-cf66bab75005" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/CBQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/MCQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/TFQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/Choice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/MultipleChoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/CBQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/Checkbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/MCQuestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/QuizRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/Quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/TFQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/consoleQuiz/TrueFalse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +70,7 @@
       <updated>1675108962814</updated>
       <workItem from="1675108964216" duration="14502000" />
       <workItem from="1675137782540" duration="67000" />
+      <workItem from="1675207994388" duration="5683000" />
     </task>
     <servers />
   </component>
